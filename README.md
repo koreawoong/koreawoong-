@@ -68,5 +68,5 @@
 - 정보처리기사 (18202190084I)
 
 ## 📞 Contact
-- Email: [이메일 주소]
-- GitHub: https://github.com/[본인username]
+- Email: koreawoong@naver.com
+- GitHub: [https://github.com/[본인username]](https://github.com/koreawoong)
